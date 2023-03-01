@@ -20,7 +20,7 @@ gdjs.PixiFiltersTools.clampKernelSize = function (value, min, max) {
 gdjs.PixiFiltersTools._filterCreators = {};
 
 /**
- * Enable an effect.
+ * Enable an effectt.
  * @param {gdjsPixiFiltersToolsFilter} filter The filter to enable or disable
  * @param {boolean} value Set to true to enable, false to disable
  */
